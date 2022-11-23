@@ -1,22 +1,15 @@
 {
+  "status": "1",
+  "count": "1",
+  "info": "OK",
+  "infocode": "10000",
   "ChuanGanQiInfo": [
     {
-      "ID": "001",
-      "WenDu": "10",
-      "YaLi": "100",
-      "BaoJing": "False"
-    },
-    {
-      "ID": "002",
-      "WenDu": "20",
-      "YaLi": "200",
-      "BaoJing": "False"
-    },
-    {
-      "ID": "003",
-      "WenDu": "30",
-      "YaLi": "300",
-      "BaoJing": "True"
+      "ID": "901",
+      "WenDu": "10度",
+      "YaLi": "100Mpa",
+      "BaoJing": "否",
+      "reporttime": "2022-11-23 17:09:02"
     }
   ]
 }
